@@ -1,0 +1,19 @@
+{
+    "name": "abogadosambientalesmx",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Abogados Ambientales MX — official website. Static HTML/CSS/JS, deployed on Vercel.",
+    "homepage": "https://abogadosambientalesmx.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AIQROO/abogadosambientalesmx.git"
+    },
+    "scripts": {
+        "dev": "npx serve -l 3000 .",
+        "preview": "npx serve -l 3000 ."
+    },
+    "engines": {
+        "node": ">=18"
+    },
+    "license": "UNLICENSED"
+}
