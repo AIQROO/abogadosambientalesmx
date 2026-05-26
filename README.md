@@ -71,10 +71,9 @@ Add both `abogadosambientalesmx.com` (apex) and `www.abogadosambientalesmx.com` 
 ## Contact channels
 
 - **WhatsApp Business:** [+52 55 4569 7053](https://wa.me/525545697053)
-- **Email:** contacto@abogadosambientales.mx
 - **Phone:** +52 55 4569 7053
 
-The contact modal is a **WhatsApp builder** — it collects sector + practice area + name + brief, then opens WhatsApp with that context pre-filled as the first message. There is no email/server backend on this site.
+The contact modal is a **WhatsApp builder** — it collects sector + practice area + name + brief, then opens WhatsApp with that context pre-filled as the first message. The firm intentionally operates without a public email address; all client intake flows through WhatsApp Business under attorney–client privilege.
 
 ## License
 

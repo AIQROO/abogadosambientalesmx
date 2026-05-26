@@ -320,7 +320,7 @@
                     <p>Our infrastructure relies on transport-layer encryption and strict internal protocols. Only partners and case strategists assigned to your matter will access the shared information.</p>
 
                     <h3>3. ARCO Rights</h3>
-                    <p>You may exercise your rights of Access, Rectification, Cancellation or Opposition by sending a direct request to: <strong>contacto@abogadosambientales.mx</strong>.</p>
+                    <p>You may exercise your rights of Access, Rectification, Cancellation or Opposition by sending a direct request via WhatsApp Business to <strong>+52 55 4569 7053</strong>. We will respond under attorney–client privilege within 12 business hours.</p>
 
                     <h3>4. International Transfers</h3>
                     <p>Data is processed within Mexico. We do not transfer personal data to third parties without your consent, except where required by competent authorities under applicable law.</p>
@@ -359,7 +359,7 @@
                     <p>Nuestra infraestructura cuenta con sistemas de cifrado y estrictos protocolos internos. Únicamente los socios y peritos encargados de la planeación estratégica de su caso tendrán acceso a la información compartida.</p>
 
                     <h3>3. Derechos ARCO</h3>
-                    <p>Usted puede ejercer sus derechos de Acceso, Rectificación, Cancelación u Oposición enviando una solicitud directa a: <strong>contacto@abogadosambientales.mx</strong>.</p>
+                    <p>Usted puede ejercer sus derechos de Acceso, Rectificación, Cancelación u Oposición enviando una solicitud por WhatsApp Business al <strong>+52 55 4569 7053</strong>. Responderemos bajo secreto profesional dentro de las 12 horas hábiles siguientes.</p>
 
                     <h3>4. Transferencias</h3>
                     <p>Los datos se procesan en territorio mexicano. No se transfieren datos personales a terceros sin su consentimiento, salvo requerimiento de autoridad competente conforme a la legislación aplicable.</p>
